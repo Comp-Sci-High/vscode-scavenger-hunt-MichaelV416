@@ -31,3 +31,4 @@ In VSCode,
 - [ ] Download the vscode-pets extension
 - [ ] Start your pet coding session
 - [ ] Spawn at least 2 more pets
+//all done
