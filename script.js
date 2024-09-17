@@ -10,6 +10,7 @@ let compliments = [
 ];
 
 // Log compliments one by one
+console.log("change file")
 console.log("Let's talk about how awesome 'Your Name' is:");
 for (let i = 0; i < compliments.length; i++) {
     console.log(compliments[i]);
